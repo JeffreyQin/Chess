@@ -1,0 +1,9 @@
+game human computer1
+move g2 g3
+move
+move f1 g2
+move
+move g1 h3
+move
+move e1 g1
+undo

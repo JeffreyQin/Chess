@@ -1,0 +1,36 @@
+setup
++ R a1
++ B c1
++ Q d1
++ K e1
++ B f1
++ N g1
++ R h1
++ P a2
++ P b2
++ P c2
++ P c2
++ P e2
++ P f2
++ P g2
++ P h2
++ N f3
++ r a8
++ n c6
++ b c8
++ q d8
++ k e8
++ b f8
++ n g8
++ r h8
++ p a7
++ p b7
++ p c7
++ p d7
++ p e5
++ p f7
++ p g7
++ p h7
+done
+game computer4 human
+move
